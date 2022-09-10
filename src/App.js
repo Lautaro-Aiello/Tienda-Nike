@@ -1,4 +1,5 @@
 import './App.scss';
+import Footer from "./components/Footer/Footer";
 import NavBar from './components/NavBar/NavBar';
 import {BrowserRouter, Routes, Route} from "react-router-dom"
 import Home from "./pages/Home"
@@ -15,7 +16,7 @@ function App() {
     <CartProvider>
       <BrowserRouter>
         <div className="App">
-          <NavBar />
+          <NavBar/>
           <Routes>
             <Route path="/" element={<Home/>}/>
             <Route path="/contacto" element={<Contacto/>}/>
@@ -26,6 +27,7 @@ function App() {
             <Route path="/cart" element={<Checkout/>}/>
             <Route path="*" element={<h1>ERROR 404 - PAGINA NO ENCONTRADA</h1>}/>
           </Routes>
+          <Footer/>
         </div>
       </BrowserRouter>
     </CartProvider>

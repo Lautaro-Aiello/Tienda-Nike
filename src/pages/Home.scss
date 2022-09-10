@@ -1,0 +1,82 @@
+.imagenHome{
+    width: 577px;
+    margin: 0px 35px 0px 35px;
+    
+    &:hover{
+        cursor: pointer;
+        filter: blur(2px);
+    }
+}
+.imagenHomeLarge{
+    width: 421px;
+    margin: 0px 35px 0px 35px;
+    &:hover{
+        cursor: pointer;
+        filter: blur(2px);
+    }
+}
+
+.designHome{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 70px
+}
+
+.buttonProduct{
+    color: transparent;
+    position: absolute;
+    left: 289px;
+    top: 469px;
+    background-color: transparent;
+    border: none;
+    font-size: 32px;
+     &:hover{
+        color: white;
+        cursor: pointer;
+        font-weight: 900;   
+    } 
+
+   
+
+}
+.buttonProduct2{
+    color: transparent;
+    position: absolute;
+    top: 450px;
+    left: 863px;
+    background-color: transparent;
+    border: none;
+    font-size: 32px;
+    &:hover{
+        color: black;
+        cursor: pointer;
+        font-weight: 900;
+    }
+}
+.buttonProduct3{
+    color: transparent;
+    position: absolute;
+    top: 473px;
+    left: 1445px;
+    background-color: transparent;
+    border: none;
+    font-size: 32px;
+    &:hover{
+        color: white;
+        cursor: pointer;
+        font-weight: 900;
+    }
+}
+
+
+.homeWelcome{
+    display:flex;
+    text-align: center;
+    top: 849px;
+    position: absolute;
+    border: none;
+    background-color: transparent;
+    left: 719px;
+    font-size: 38px;
+}

@@ -1,8 +1,8 @@
-
+import ItemListContainer from "../components/ItemListContainer/ItemListContainer"
 const Productos = () => {
     return(
         <div>
-            <h1>Productos</h1>
+            <ItemListContainer calzado="Tienda Nike"/>
         </div>
     )
 }
