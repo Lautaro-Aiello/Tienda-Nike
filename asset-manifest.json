@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Tienda-Nike/static/css/main.2ec700b8.css",
-    "main.js": "/Tienda-Nike/static/js/main.8ed9fcd6.js",
-    "index.html": "/Tienda-Nike/index.html",
-    "main.2ec700b8.css.map": "/Tienda-Nike/static/css/main.2ec700b8.css.map",
-    "main.8ed9fcd6.js.map": "/Tienda-Nike/static/js/main.8ed9fcd6.js.map"
+    "main.css": "/Lautaro-Aiello/Tienda-Nike.git/static/css/main.2ec700b8.css",
+    "main.js": "/Lautaro-Aiello/Tienda-Nike.git/static/js/main.8ed9fcd6.js",
+    "index.html": "/Lautaro-Aiello/Tienda-Nike.git/index.html",
+    "main.2ec700b8.css.map": "/Lautaro-Aiello/Tienda-Nike.git/static/css/main.2ec700b8.css.map",
+    "main.8ed9fcd6.js.map": "/Lautaro-Aiello/Tienda-Nike.git/static/js/main.8ed9fcd6.js.map"
   },
   "entrypoints": [
     "static/css/main.2ec700b8.css",
