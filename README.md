@@ -6,7 +6,7 @@
 
 *Disponible solamente para clonacion.*
 
-### `$ git clone https://github.com/Lautaro-Aiello/ecommerce.git`
+### `$ git clone https://github.com/Lautaro-Aiello/Tienda-Nike.git`
 
 ## **Dependencias utilizadas**
 
