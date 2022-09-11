@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Tienda-Nike/static/css/main.2ec700b8.css",
+    "main.js": "/Tienda-Nike/static/js/main.8ed9fcd6.js",
+    "index.html": "/Tienda-Nike/index.html",
+    "main.2ec700b8.css.map": "/Tienda-Nike/static/css/main.2ec700b8.css.map",
+    "main.8ed9fcd6.js.map": "/Tienda-Nike/static/js/main.8ed9fcd6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2ec700b8.css",
+    "static/js/main.8ed9fcd6.js"
+  ]
+}
